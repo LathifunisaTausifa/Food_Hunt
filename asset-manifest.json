@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/Food_Hunt/static/css/main.9baa1403.css",
-    "main.js": "/github.io/Food_Hunt/static/js/main.b5a1b44f.js",
-    "index.html": "/github.io/Food_Hunt/index.html",
-    "main.9baa1403.css.map": "/github.io/Food_Hunt/static/css/main.9baa1403.css.map",
-    "main.b5a1b44f.js.map": "/github.io/Food_Hunt/static/js/main.b5a1b44f.js.map"
+    "main.css": "/Food_Hunt/static/css/main.9baa1403.css",
+    "main.js": "/Food_Hunt/static/js/main.b5a1b44f.js",
+    "index.html": "/Food_Hunt/index.html",
+    "main.9baa1403.css.map": "/Food_Hunt/static/css/main.9baa1403.css.map",
+    "main.b5a1b44f.js.map": "/Food_Hunt/static/js/main.b5a1b44f.js.map"
   },
   "entrypoints": [
     "static/css/main.9baa1403.css",
